@@ -1,6 +1,7 @@
-name: PLUGIN_NAME
+name: Eco test
 version: 1.0
-main: me.yourname.pluginname.Main
+main: me.Incbom.eco.Main
+api-version: 1.13
 commands:
   mycommand:
     description: mycommand
