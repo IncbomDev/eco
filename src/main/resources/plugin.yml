@@ -1,0 +1,11 @@
+name: PLUGIN_NAME
+version: 1.0
+main: me.yourname.pluginname.Main
+commands:
+  mycommand:
+    description: mycommand
+    usage: '/mycmd'
+    aliases: [mycommand]
+    permission: me.main
+    permission-message: You do not have permission to use this command
+
